@@ -1,0 +1,51 @@
+body{
+    background-color: #F3F1FF;
+}
+main{
+    width: 900px;
+    max-width: 90%;
+    margin: 0 auto;
+}
+.container-fulid  {
+    background-color: #FFFFFF;
+    margin-bottom: 60px;
+
+}
+.mx-auto{
+    margin-top: 40px;
+}
+
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+ .playe img{
+    width: 100px;
+} 
+.naiem{
+    color: blue;
+    
+}
+.card-text{
+    color: red;
+}
+.container{
+  
+    background-color:#FFFFFF;
+    margin-bottom: 60px;
+}
+.raftaar{
+    padding-left: 20px;
+}
+section{
+    background-color: white;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 10px;
+}
+
+
+
+
